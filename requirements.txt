@@ -1,5 +1,5 @@
 pydantic==2.5.0
-pydantic-settings==0.3.1
+pydantic-settings==2.2.1
 altair
 matplotlib
 numpy
