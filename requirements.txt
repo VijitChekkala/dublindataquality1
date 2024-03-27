@@ -1,4 +1,4 @@
-pydantic==1.8.3
+pydantic==2.5.0
 pydantic-settings==0.3.1
 altair
 matplotlib
